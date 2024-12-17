@@ -1,0 +1,16 @@
+@charset "utf-8";
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  -webkit-text-size-adjust: none;
+  font-family:"微软雅黑","宋体","Arial";
+  font-size:16px;
+  background-color: #DFF3E2;
+  line-height: 2.0;
+  margin:0 auto;
+  padding:0;
+  border-style:none;
+  text-wrap: auto;
+}
